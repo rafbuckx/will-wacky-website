@@ -232,7 +232,7 @@ body main .cta {
 body a {
     color: inherit;
     text-decoration: none;
-    color: #86E98F;
+    color: #7f77b0;
 }
 
 body a span:not(emoji) {
@@ -241,7 +241,7 @@ body a span:not(emoji) {
 }
 
 body a.cta {
-    color: #86E98F;
+    color: #7f77b0;
 }
 
 body p,
@@ -257,7 +257,7 @@ body h6 {
 body h1 {
     font-size: 1.4em;
     margin-bottom: 1em;
-    color: #86E98F;
+    color: #7f77b0;
 }
 
 body p {
@@ -340,7 +340,7 @@ body #mainWrapper main::after {
 --------------------------------------------------------------*/
 
 body {
-    background: blue;
+    background: rgb(255, 255, 255);
 }
 
 body main {
@@ -349,7 +349,7 @@ body main {
 		border-radius: 15px;
 		box-shadow: 0 10px 45px rgba(0, 0, 0, .1);
 		*/
-    color: white;
+    color: #1f2530;
     position: absolute;
     top: 50%;
     left: 50%;
